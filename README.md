@@ -2,6 +2,9 @@
 
 ### Career & Startups Highlights
 
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/raap.png" alt="RaaP" width="40"/>](https://raap.builders) 
+RaaP - Sophisicated health and wellness based on your genes
+
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/dnapal.jpg" alt="DNAPal" width="40"/>](https://dnapal.me) 
 DNAPal - Sophisicated health and wellness based on your genes
 
@@ -17,12 +20,15 @@ Policy Expert - Home and Car InsurTech | #1 UK home insurer
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/conexiom.png" alt="Conexiom" width="40"/>](https://conexiom.com/)
 Conexiom - A platform for trade document automation
 
-### 🔭 I’m currently working on 
+### 🔭 I’m currently working on
+- [Mentor at Fintech Candence](https://fintechcadence.com/) - Startup mentor and coach
+- [Chrome Extensions]([https://github.com/](https://github.com/orgs/Formula-Thoughts/repositories)) - Chrone Extensions 
 - [Garage Sale](https://github.com/dominicfarr/minima_guides)  - A demo build execusively using outputs from AI prompts
 - [Minima Guides](https://minima-guides.formulathoughts.com/) - Guides for the Minima ecosystem
 - [Formula Thoughts](https://formulathoughts.com) - My fractional consultancy
 
 ### 🌱 I’m currently learning
+- Chrome extension eco-system
 - NextJS
 - Chat GPT Plugins
 - Guitar
