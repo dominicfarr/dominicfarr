@@ -2,7 +2,7 @@
 
 ### Career & Startups Highlights
 
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/raap.png" alt="RaaP" width="40"/>](https://raap.builders) 
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/raap1.png" alt="RaaP" width="40"/>](https://raap.builders) 
 RaaP - Sophisicated health and wellness based on your genes
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/dnapal.jpg" alt="DNAPal" width="40"/>](https://dnapal.me) 
