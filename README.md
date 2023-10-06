@@ -3,7 +3,7 @@
 ### Career & Startups Highlights
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/raap1.png" alt="RaaP" width="40"/>](https://raap.builders) 
-RaaP - Sophisicated health and wellness based on your genes
+RaaP - Technology platform that increases the efficiency and profitability of modular prefabrication
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/dnapal.jpg" alt="DNAPal" width="40"/>](https://dnapal.me) 
 DNAPal - Sophisicated health and wellness based on your genes
