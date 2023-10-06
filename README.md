@@ -22,7 +22,7 @@ Conexiom - A platform for trade document automation
 
 ### 🔭 I’m currently working on
 - [Mentor at Fintech Candence](https://fintechcadence.com/) - Startup mentor and coach
-- [Chrome Extensions]([https://github.com/](https://github.com/orgs/Formula-Thoughts/repositories)) - Chrone Extensions 
+- [Chrome Extensions](https://github.com/orgs/Formula-Thoughts/repositories) - Chrone Extensions 
 - [Garage Sale](https://github.com/dominicfarr/minima_guides)  - A demo build execusively using outputs from AI prompts
 - [Minima Guides](https://minima-guides.formulathoughts.com/) - Guides for the Minima ecosystem
 - [Formula Thoughts](https://formulathoughts.com) - My fractional consultancy
