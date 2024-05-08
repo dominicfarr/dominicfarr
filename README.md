@@ -5,6 +5,12 @@
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/flowstate.png" alt="Flowstate" width="40"/>](https://flowstate.software) 
 Flowstate - Generate beautiful process models using only words
 
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/flatini.png" alt="Flatini" width="40"/>](https://chromewebstore.google.com/detail/flatini/ndikjhgaonkjjgpjcnkdpddpjdkgpepo?hl=en) 
+A chrome extension that helps you find "together" the perfect place 🏠 - A startup with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
+
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/minima.png" alt="Minima" width="30"/>](https://minima-guides.formulathoughts.com/) 
+Guides for the Minima ecosystem
+
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/raap1.png" alt="RaaP" width="40"/>](https://raap.builders) 
 RaaP - Technology platform that increases the efficiency and profitability of modular prefabrication
 
@@ -23,17 +29,11 @@ Policy Expert - Home and Car InsurTech | #1 UK home insurer
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/conexiom.png" alt="Conexiom" width="40"/>](https://conexiom.com/)
 Conexiom - A platform for trade document automation
 
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/minima.png" alt="Minima" width="40"/>](https://minima-guides.formulathoughts.com/) 
-Guides for the Minima ecosystem
-
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/flatini.png" alt="Flatini" width="40"/>](https://chromewebstore.google.com/detail/flatini/ndikjhgaonkjjgpjcnkdpddpjdkgpepo?hl=en) 
-A chrome extension that helps you find "together" the perfect place 🏠 - A startup with @aidangannon and @xaviermod
-
 
 ### 🔭 I’m currently working on
 - [Mentor at Fintech Candence](https://fintechcadence.com/) - Startup mentor and coach
 - [Chrome Extensions](https://github.com/orgs/Formula-Thoughts/repositories) - Chrone Extensions 
-- [Formula Thoughts](https://formulathoughts.com) - My consultancy with https://github.com/aidangannon and https://github.com/XavierMod
+- [Formula Thoughts](https://formulathoughts.com) - My consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
 
 ### 🌱 I’m currently learning
 - Chrome extension eco-system
