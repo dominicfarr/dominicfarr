@@ -2,6 +2,9 @@
 
 ### Career & Startups Highlights
 
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/flowstate.png" alt="Flowstate" width="40"/>](https://flowstate.software) 
+Flowstate - Generate beautiful process models using only words
+
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/raap1.png" alt="RaaP" width="40"/>](https://raap.builders) 
 RaaP - Technology platform that increases the efficiency and profitability of modular prefabrication
 
