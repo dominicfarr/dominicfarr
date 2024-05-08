@@ -31,6 +31,7 @@ Conexiom - A platform for trade document automation
 
 
 ### 🔭 I’m currently working on
+- [Flowstate](https://flowstate.software) - Cofounder at Flowstate
 - [Mentor at Fintech Candence](https://fintechcadence.com/) - Startup mentor and coach
 - [Chrome Extensions](https://github.com/orgs/Formula-Thoughts/repositories) - Chrone Extensions 
 - [Formula Thoughts](https://formulathoughts.com) - My consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
