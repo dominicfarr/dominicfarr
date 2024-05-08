@@ -23,7 +23,12 @@ Policy Expert - Home and Car InsurTech | #1 UK home insurer
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/conexiom.png" alt="Conexiom" width="40"/>](https://conexiom.com/)
 Conexiom - A platform for trade document automation
 
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/minima.png" alt="Minima" width="40"/>](https://minima-guides.formulathoughts.com/) - Guides for the Minima ecosystem
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/minima.png" alt="Minima" width="40"/>](https://minima-guides.formulathoughts.com/) 
+Guides for the Minima ecosystem
+
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/flatini.png" alt="Flatini" width="40"/>](https://chromewebstore.google.com/detail/flatini/ndikjhgaonkjjgpjcnkdpddpjdkgpepo?hl=en) 
+A chrome extension that helps you find "together" the perfect place 🏠 - A startup with @aidangannon and @xaviermod
+
 
 ### 🔭 I’m currently working on
 - [Mentor at Fintech Candence](https://fintechcadence.com/) - Startup mentor and coach
