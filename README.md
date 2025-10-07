@@ -37,23 +37,21 @@ Conexiom - A platform for trade document automation
 - [Formula Thoughts](https://formulathoughts.com) - My consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
 
 ### 🌱 I’m currently learning
-- Chrome extension eco-system
-- NextJS
+- Svelte 5 is my main Frontend Technology
 - Chat GPT Plugins
 - Guitar
 
 ### 🤝 I’m looking to collaborate so get in touch
-- [Formula Thoughts](https://formulathoughts.com)
 - [LinkedIn](https://linkedIn.com/in/dominicfarr)
 - [Calendly](https://calendly.com/domfarr/30min)
 
-### ⚡ Fun facts
-Father of 2 | Married 12 years | Dual citizen 🇬🇧 🇨🇦
+### ⚡ Fun facts 
+- Father of 2
+- Dual citizen 🇬🇧 🇨🇦
+- I'm fascinated by human biology and have run experiments with blood work analysis on many of the crackpot diets you see online...just to prove to myself they are fake. 🩸
 
 ### 🦹‍♂️ Superpower  
 My ability to get back up, brush myself off, and try again
 
 ### 🙋‍♂️ Approach
-I do my best to follow Stoicism; a philosophy that emphasizes four fundamental mind habits: **wisdom**, **courage**, **temperance**, and **justice** 
-
 Approach all problems with a open curious mind...I ask lots of questions about everything. 
