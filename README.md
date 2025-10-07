@@ -1,15 +1,16 @@
 # This is me
 
+### 🔭 I’m currently working on
+- [Flowstate](https://flowstate.software) - Flowstate - Generate beautiful process models using only words
+- [Mentor at Fintech Candence](https://fintechcadence.com/) - Startup mentor and coach
+
 ### Career & Startups Highlights
 
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/flowstate.png" alt="Flowstate" width="40"/>](https://flowstate.software) 
-Flowstate - Generate beautiful process models using only words
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/pe.png" alt="Policy Expert" width="40"/>](https://policyexpert.co.uk)
+Policy Expert - Home and Car InsurTech | #1 UK home insurer
 
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/flatini.png" alt="Flatini" width="40"/>](https://chromewebstore.google.com/detail/flatini/ndikjhgaonkjjgpjcnkdpddpjdkgpepo?hl=en) 
-A chrome extension that helps you find "together" the perfect place 🏠 - A startup with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
-
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/minima.png" alt="Minima" width="30"/>](https://minima-guides.formulathoughts.com/) 
-Guides for the Minima ecosystem
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/conexiom.png" alt="Conexiom" width="40"/>](https://conexiom.com/)
+Conexiom - A platform for trade document automation
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/raap1.png" alt="RaaP" width="40"/>](https://raap.builders) 
 RaaP - Technology platform that increases the efficiency and profitability of modular prefabrication
@@ -23,22 +24,14 @@ Collate.org - A digital media platform: Letters to the editor meets twitter
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/pinfluencer.png" alt="Pinfluencer.io" width="40"/>](https://pinfluencer.io)
 Pinfluencer.io - A sustainable influencer marketing platform
 
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/pe.png" alt="Policy Expert" width="40"/>](https://policyexpert.co.uk)
-Policy Expert - Home and Car InsurTech | #1 UK home insurer
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/minima.png" alt="Minima" width="30"/>](https://minima-guides.formulathoughts.com/) 
+Guides for the Minima ecosystem
 
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/conexiom.png" alt="Conexiom" width="40"/>](https://conexiom.com/)
-Conexiom - A platform for trade document automation
-
-
-### 🔭 I’m currently working on
-- [Flowstate](https://flowstate.software) - Cofounder at Flowstate
-- [Mentor at Fintech Candence](https://fintechcadence.com/) - Startup mentor and coach
-- [Chrome Extensions](https://github.com/orgs/Formula-Thoughts/repositories) - Chrone Extensions 
-- [Formula Thoughts](https://formulathoughts.com) - My consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
+- [Formula Thoughts](https://formulathoughts.com) - My [now retired] consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
 
 ### 🌱 I’m currently learning
 - Svelte 5 is my main Frontend Technology
-- Chat GPT Plugins
+- Agentic automation
 - Guitar
 
 ### 🤝 I’m looking to collaborate so get in touch
