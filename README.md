@@ -1,8 +1,5 @@
 # This is me
 
-### 🔭 I’m currently working on
-- [Mentor at Fintech Candence](https://fintechcadence.com/) - Startup mentor and coach
-
 ### Career & Startups Highlights
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/pe.png" alt="Policy Expert" width="40"/>](https://policyexpert.co.uk)
