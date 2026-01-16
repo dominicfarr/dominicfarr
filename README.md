@@ -1,13 +1,14 @@
 # This is me
 
 ### 🔭 I’m currently working on
-- [Flowstate](https://flowstate.software) - Flowstate - Generate beautiful process models using only words
 - [Mentor at Fintech Candence](https://fintechcadence.com/) - Startup mentor and coach
 
 ### Career & Startups Highlights
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/pe.png" alt="Policy Expert" width="40"/>](https://policyexpert.co.uk)
 Policy Expert - Home and Car InsurTech | #1 UK home insurer
+
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/flowstate.png" alt="Flowstate" width="40"/>](https://flowstate.software) Flowstate - Generate beautiful process models using only words
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/conexiom.png" alt="Conexiom" width="40"/>](https://conexiom.com/)
 Conexiom - A platform for trade document automation
