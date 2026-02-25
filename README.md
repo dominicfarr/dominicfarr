@@ -28,8 +28,7 @@ Guides for the Minima ecosystem
 - [Formula Thoughts](https://formulathoughts.com) - My [now retired] consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
 
 ### 🌱 I’m currently learning
-- Svelte 5 is my main Frontend Technology
-- Agentic automation
+- Agentic workflows, pipelines, and automation
 - Guitar
 
 ### 🤝 I’m looking to collaborate so get in touch
