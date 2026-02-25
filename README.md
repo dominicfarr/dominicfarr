@@ -89,4 +89,4 @@ Pinfluencer.io - A sustainable influencer marketing platform
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/minima.png" alt="Minima" width="30"/>](https://minima-guides.formulathoughts.com/) 
 Guides for the Minima ecosystem
 
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/formulathoughts.png" alt="Minima" width="30"/>](https://domfarr.com/) - My [now retired] consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/formulathoughts.png" alt="Minima" width="30"/>](https://domfarr.com/)  Retired consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
