@@ -1,6 +1,70 @@
-# This is me
+# Dominic Farr
 
-### Career & Startups Highlights
+Platform Architect | Regulated Systems | Evolving Delivery Models
+
+I design and evolve digital platforms that operate under real-world constraint.
+
+My background spans regulated insurance systems serving millions of customers and generating $200M+ in annual premium, as well as venture-backed SaaS platforms built from first principles. Across both environments, the constant has been the same: reliability, explicit contracts, and economic discipline determine whether systems scale safely.
+
+I am currently exploring how agent-assisted development changes delivery trust, cost visibility, and architectural control layers.
+
+LinkedIn: https://www.linkedin.com/in/dominicfarr  
+Blog: https://www.domfarr.com  
+Talk: https://calendly.com/domfarr/30min
+
+---
+
+## Current Focus
+
+Software delivery is shifting.
+
+When code generation accelerates, the bottleneck moves from writing to validation.  
+When automation increases, governance must become more explicit.
+
+My current work centers on small-scale experiments in:
+
+- Trust-shifted CI/CD patterns for agent-generated changes  
+- Risk scoring and validation depth tied to change classification  
+- Token cost visibility inside delivery workflows  
+- Control layers for partially automated systems  
+
+These are exploratory builds designed to test architectural patterns, not productized systems.
+
+---
+
+## Regulated Platform Architecture
+
+### Insurance Platform (Policy Expert)
+
+Owned end-to-end architecture of a cloud-native, API-driven insurance platform supporting millions of customers.
+
+Focus areas included:
+- Distributed services and event-driven workflows  
+- Real-time customer journeys  
+- Security and regulatory constraints  
+- Platform evolution under scale  
+
+Architecture decisions were evaluated against operational risk and long-term maintainability.
+
+---
+
+## Founder Experience
+
+Designed and delivered a cloud-based business process modelling platform using Svelte, TypeScript, Python, CI/CD, and NLP.
+
+Built under constraint. Validated in production. Learned where speed compounds and where governance breaks.
+
+---
+
+## Themes I Work On
+
+- Delivery systems under automation pressure  
+- Incentives and cost visibility in AI-assisted workflows  
+- Governance patterns for evolving platforms  
+
+---
+
+## Career & Startups Highlights
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/pe.png" alt="Policy Expert" width="40"/>](https://policyexpert.co.uk)
 Policy Expert - Home and Car InsurTech | #1 UK home insurer
@@ -25,23 +89,4 @@ Pinfluencer.io - A sustainable influencer marketing platform
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/minima.png" alt="Minima" width="30"/>](https://minima-guides.formulathoughts.com/) 
 Guides for the Minima ecosystem
 
-- [Formula Thoughts](https://formulathoughts.com) - My [now retired] consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
-
-### 🌱 I’m currently learning
-- Agentic workflows, pipelines, and automation
-- Guitar
-
-### 🤝 I’m looking to collaborate so get in touch
-- [LinkedIn](https://linkedIn.com/in/dominicfarr)
-- [Calendly](https://calendly.com/domfarr/30min)
-
-### ⚡ Fun facts 
-- Father of 2
-- Dual citizen 🇬🇧 🇨🇦
-- I'm fascinated by human biology and have run experiments with blood work analysis on many of the crackpot diets you see online...just to prove to myself they are fake. 🩸
-
-### 🦹‍♂️ Superpower  
-My ability to get back up, brush myself off, and try again
-
-### 🙋‍♂️ Approach
-Approach all problems with a open curious mind...I ask lots of questions about everything. 
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/formulathoughts.png](https://formulathoughts.com) - My [now retired] consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
