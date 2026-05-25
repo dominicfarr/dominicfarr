@@ -14,24 +14,6 @@ Talk: https://calendly.com/domfarr/30min
 
 ---
 
-## Current Focus
-
-Software delivery is shifting.
-
-When code generation accelerates, the bottleneck moves from writing to validation.  
-When automation increases, governance must become more explicit.
-
-My current work centers on small-scale experiments in:
-
-- Trust-shifted CI/CD patterns for agent-generated changes  
-- Risk scoring and validation depth tied to change classification  
-- Token cost visibility inside delivery workflows  
-- Control layers for partially automated systems  
-
-These are exploratory builds designed to test architectural patterns, not productized systems.
-
----
-
 ## Regulated Platform Architecture
 
 ### Insurance Platform (Policy Expert)
