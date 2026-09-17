@@ -4,9 +4,9 @@
 
 I lead engineering teams and stay in the work. Architecture calls, code review, and production issues included. 15+ years across regulated fintech/insurtech platforms and early-stage SaaS builds, most recently as a sole technical lead shipping a product end-to-end.
 
-LinkedIn: https://www.linkedin.com/in/dominicfarr
-Blog: https://domfarr.com
-Talk: https://calendly.com/domfarr/30min
+* LinkedIn: https://www.linkedin.com/in/dominicfarr
+* Blog: https://domfarr.com
+* Talk: https://calendly.com/domfarr/30min
 
 ---
 
