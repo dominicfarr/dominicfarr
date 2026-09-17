@@ -1,74 +1,52 @@
 # Dominic Farr
 
-Platform Architect | Regulated Systems | Evolving Delivery Models
+**Hands-On Engineering Manager — building and leading small, high-trust teams**
 
-I design and evolve digital platforms that operate under real-world constraint.
+I lead engineering teams and stay in the work. Architecture calls, code review, and production issues included. 15+ years across regulated fintech/insurtech platforms and early-stage SaaS builds, most recently as a sole technical lead shipping a product end-to-end.
 
-My background spans regulated insurance systems serving millions of customers and generating $200M+ in annual premium, as well as venture-backed SaaS platforms built from first principles. Across both environments, the constant has been the same: reliability, explicit contracts, and economic discipline determine whether systems scale safely.
-
-I am currently exploring how agent-assisted development changes delivery trust, cost visibility, and architectural control layers.
-
-LinkedIn: https://www.linkedin.com/in/dominicfarr  
-Blog: https://www.domfarr.com  
+LinkedIn: https://www.linkedin.com/in/dominicfarr
+Blog: https://domfarr.com
 Talk: https://calendly.com/domfarr/30min
 
 ---
 
-## Regulated Platform Architecture
+## What I do
 
-### Insurance Platform (Policy Expert)
+- Lead small teams (5–15 engineers) through delivery and operations
+- Love being hands-on in the codebase — recent work in spaCy NLP, TypeScript, Svelte and Python, and Render PaaS
+- Build the standards that let a team ship confidently: CI/CD, testing, observability
+- Coach engineers from junior through senior
 
-Owned end-to-end architecture of a cloud-native, API-driven insurance platform supporting millions of customers.
+## Currently exploring
 
-Focus areas included:
-- Distributed services and event-driven workflows  
-- Real-time customer journeys  
-- Security and regulatory constraints  
-- Platform evolution under scale  
+How agentic tooling changes day-to-day delivery — testing assumptions, cost visibility, and where team process still needs a human in the loop. Writing about it at [domfarr.com](https://domfarr.com).
 
-Architecture decisions were evaluated against operational risk and long-term maintainability.
+## Career Highlights
 
----
+**Head of Technology, Policy Expert** (2013–2019)
+Scaled the engineering team from 6 to 40 while owning architecture for a regulated insurance platform handling $200M+ in annual premium. Near-zero high-severity downtime across seven years.
 
-## Founder Experience
+**Co-Founder, Flowstate** (2023–2025)
+Sole technical lead. Owned the full stack — TypeScript/Svelte frontend, Python APIs, NLP, LaTeX, Docker on Render, and PostgresDB — from proof-of-concept through beta and early customer onboarding.
 
-Designed and delivered a cloud-based business process modelling platform using Svelte, TypeScript, Python, CI/CD, and NLP.
+## Startup advisory (ongoing)
 
-Built under constraint. Validated in production. Learned where speed compounds and where governance breaks.
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/fromearth.jpg" alt="From Earth" width="40"/>](https://fromearth.co/) 
+From Earth - platform that curates the most nutrient rich food 
 
----
-
-## Themes I Work On
-
-- Delivery systems under automation pressure  
-- Incentives and cost visibility in AI-assisted workflows  
-- Governance patterns for evolving platforms  
-
----
-
-## Career & Startups Highlights
-
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/pe.png" alt="Policy Expert" width="40"/>](https://policyexpert.co.uk)
-Policy Expert - Home and Car InsurTech | #1 UK home insurer
-
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/flowstate.png" alt="Flowstate" width="40"/>](https://flowstate.software) Flowstate - Generate beautiful process models using only words
-
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/conexiom.png" alt="Conexiom" width="40"/>](https://conexiom.com/)
-Conexiom - A platform for trade document automation
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/dnapal.jpg" alt="DNAPal" width="40"/>](https://dnapal.me) 
+DNAPal - Sophisicated health and wellness based on your genes
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/raap1.png" alt="RaaP" width="40"/>](https://raap.builders) 
 RaaP - Technology platform that increases the efficiency and profitability of modular prefabrication
 
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/dnapal.jpg" alt="DNAPal" width="40"/>](https://dnapal.me) 
-DNAPal - Sophisicated health and wellness based on your genes
+## Other Startups
+
+[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/conexiom.png" alt="Conexiom" width="40"/>](https://conexiom.com/)
+Conexiom - A platform for trade document automation
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/collate.png" alt="Collect.org" width="40"/>](https://collate.org)
 Collate.org - A digital media platform: Letters to the editor meets twitter
 
 [<img src="https://github.com/dominicfarr/dominicfarr/blob/main/pinfluencer.png" alt="Pinfluencer.io" width="40"/>](https://pinfluencer.io)
 Pinfluencer.io - A sustainable influencer marketing platform
-
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/minima.png" alt="Minima" width="30"/>](https://minima-guides.formulathoughts.com/) 
-Guides for the Minima ecosystem
-
-[<img src="https://github.com/dominicfarr/dominicfarr/blob/main/formulathoughts.png" alt="Minima" width="30"/>](https://domfarr.com/)  Retired consultancy with [@aidangannon](https://github.com/aidangannon) and [@xaviermod](https://github.com/XavierMod)
