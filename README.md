@@ -7,6 +7,7 @@ I lead engineering teams and stay in the work. Architecture calls, code review, 
 * LinkedIn: https://www.linkedin.com/in/dominicfarr
 * Blog: https://domfarr.com
 * Talk: https://calendly.com/domfarr/30min
+* Resume: [Dominic_Farr_Resume.pdf](https://domfarr.com/assets/Dominic_Farr_Resume.pdf)
 
 ---
 
