@@ -1,19 +1,19 @@
 # Dominic Farr
 
-**Hands-On Engineering Manager — building and leading small, high-trust teams**
+**Hands-On Engineering Leader — building and leading high-trust teams**
 
 I lead engineering teams and stay in the work. Architecture calls, code review, and production issues included. 15+ years across regulated fintech/insurtech platforms and early-stage SaaS builds, most recently as a sole technical lead shipping a product end-to-end.
 
 * LinkedIn: https://www.linkedin.com/in/dominicfarr
 * Working notebook: https://domfarr.com
 * Talk: https://calendly.com/domfarr/30min
-* Resume: [Dominic Farr Resume.pdf](https://domfarr.com/assets/Dominic_Farr_Hands-on_Engineering_Manager.pdf)
+* Resume: [Dominic Farr Resume.pdf](https://domfarr.com/assets/DominicFarr_Resume.pdf)
 
 ---
 
 ## What I do
 
-- Lead small teams (5–15 engineers) through delivery and operations
+- Lead small teams (5–25 engineers) through delivery and operations
 - Love being hands-on in the codebase — recent work in spaCy NLP, TypeScript, Svelte and Python, and Render PaaS
 - Build the standards that let a team ship confidently: CI/CD, testing, observability
 - Coach engineers from junior through senior
